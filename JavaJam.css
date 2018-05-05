@@ -1,0 +1,76 @@
+<style>
+       
+
+element.style {
+    margin: 0px;
+    background-color: #fcebb6;
+}
+
+body{
+            margin: 0px;
+            background-color : #fcebb6;
+            width: 100%;
+            font-family: Verdana , sans-serif;
+            }
+        h1{
+              background-color:#d2b48c ;
+            color: #221811;
+            line-height: 200% ;
+            font-family: Georgia , "Times New Roman" , serif;
+            text-indent: 1em;
+            text-shadow: 3px 3px 5px #CCCCCC;
+            text-align: center;
+        }
+        
+      head
+{
+    text-align: center;
+}
+        h2{
+    
+            font-family: Georgia , "Times New Roman" , serif;
+          
+        }
+          nav
+        {
+            font-weight: bold;
+            font-size: 1.25em;
+            word-spacing: 1em;
+            text-align: center;
+            
+        }
+       
+        p
+        {
+            font-size: .90em;
+            text-indent: 3em;
+        }
+        ul
+        {
+            font-weight: bold;
+        }
+        
+        footer
+        {
+            text-align: center;
+            font-size: .60em;
+            font-style: italic;
+	        background-color: #d2b48c;
+            
+        }
+        .feature {
+            color:#C70000
+        }
+        .company
+        {
+            font-weight: bold;
+            font-family:  Georgia , "Times New Roman" , serif;
+        }
+
+#wrapper {
+    width: 80%;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+    </style>
